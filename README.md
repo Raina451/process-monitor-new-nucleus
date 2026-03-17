@@ -2,7 +2,7 @@
 
 A clean, professional enterprise dashboard for monitoring UiPath Orchestrator process executions in real-time. Built with React, TypeScript, and the official UiPath SDK.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Raina451/process-monitor-new-nucleus)
 
 ## Overview
 
@@ -188,7 +188,7 @@ function MyComponent() {
 
 ### Deploy to Cloudflare Pages
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Raina451/process-monitor-new-nucleus)
 
 #### Manual Deployment
 
